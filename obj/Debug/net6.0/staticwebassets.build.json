@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "Hash": "ElgFuhFJVfXr/xzzE4a0NeoHcLLYbh8Tor7MQZY9sFw=",
+  "Source": "simpleproject",
+  "BasePath": "_content/simpleproject",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "simpleproject\\wwwroot",
+      "Source": "simpleproject",
+      "ContentRoot": "C:\\Users\\Omar\\source\\repos\\simpleproject\\simpleproject\\wwwroot\\",
+      "BasePath": "_content/simpleproject",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\Omar\\source\\repos\\simpleproject\\simpleproject\\wwwroot\\css\\bootstrap.min.css",
+      "SourceId": "simpleproject",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Omar\\source\\repos\\simpleproject\\simpleproject\\wwwroot\\",
+      "BasePath": "_content/simpleproject",
+      "RelativePath": "css/bootstrap.min.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\bootstrap.min.css"
+    },
+    {
+      "Identity": "C:\\Users\\Omar\\source\\repos\\simpleproject\\simpleproject\\wwwroot\\js\\bootstrap.bundle.js",
+      "SourceId": "simpleproject",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Omar\\source\\repos\\simpleproject\\simpleproject\\wwwroot\\",
+      "BasePath": "_content/simpleproject",
+      "RelativePath": "js/bootstrap.bundle.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\bootstrap.bundle.js"
+    }
+  ]
+}
